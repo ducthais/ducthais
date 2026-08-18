@@ -1,5 +1,6 @@
+<img width="500" height="209" alt="gif-marvel-91" src="https://github.com/user-attachments/assets/7420f62c-e55b-469a-87ff-365d7d76a1e3" />
+
 ## Hi there 👋
-<img width="240" height="320" alt="cutekitty_wybq551h" src="https://github.com/user-attachments/assets/62c645c4-11df-4d5c-a6cc-0c89689c8bd9" />
 <!--
 **ducthais/ducthais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
