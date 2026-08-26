@@ -1,5 +1,5 @@
 ## Have a nice day👋
-Fun fact: 1 + 1 = 2
+Fun fact: 1 + 1 = 2!
 
 How to reach me: ducthai1713@gmail.com
 <!--
