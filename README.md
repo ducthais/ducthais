@@ -1,7 +1,7 @@
 ## Have a nice day👋
 Fun fact: 1 + 1 = 2!
 
-How to reach me: ducthai1713@gmail.com
+How to reach me: ducthai1713@gmail.com.
 <!--
 **ducthais/ducthais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
