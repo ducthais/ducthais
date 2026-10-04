@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🟩 Hi there, I'm ducthai 🟩</h1>
+  <h1>Hello there, I'm ducthai.</h1>
 
   <br>
 
