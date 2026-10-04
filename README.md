@@ -70,5 +70,5 @@
   <img src="https://streak-stats.vercel.app/?user=ducthais&theme=default&v=1" alt="GitHub Streak" />
   <br/><br/>
   <!-- Profile visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=ducthais&label=Profile%20Views&color=22c55e&style=flat" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ducthais.ducthais&left_text=Profile%20Views&left_color=%23555555&right_color=%2322c55e" alt="Visitor Count" />
 </div>
