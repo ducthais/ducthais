@@ -12,7 +12,7 @@
   ### 📊 AI & Data Science | Machine Learning Engineer
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/th%C3%A1i-%C4%91%E1%BB%A9c-b32233411/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ducthai1713@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://github.com/ducthais"><img src="https://img.shields.io/badge/GitHub-ducthais-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
