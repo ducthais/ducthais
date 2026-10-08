@@ -9,7 +9,7 @@
   <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/ducthais/ducthais/main/assets/avatar.png&w=130&h=130&fit=cover&mask=circle" width="130" height="130" alt="Dinh Duc Thai Avatar" />
 </a>
 
-  ### 📊 AI & Data Science | Machine Learning Engineer
+  ###  AI & Data Science 
 
 
   <!-- Auto-typing SVG animation -->
